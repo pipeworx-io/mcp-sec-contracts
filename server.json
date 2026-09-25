@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sec-contracts",
   "title": "Sec Contracts",
   "description": "SEC Contracts MCP — material-contract exhibits (EX-10 / EX-4 / EX-2) found by",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/sec-contracts",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sec-contracts",
