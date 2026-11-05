@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sec-contracts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "SEC Contracts MCP — material-contract exhibits (EX-10 / EX-4 / EX-2) found by CLAUSE LANGUAGE over SEC EDGAR full-text search (free, no auth).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "sec-contracts",
     "gatewaySlug": "sec-contracts",
-    "sourceHash": "v1-4389d6d3b2ec13215148e32e425d590bc0d54c069d070c16934b280272be6592",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-b68114fbaeee2109e33144f2d4e92b43dd73a27f0c5f53b2ea324787ba0564be",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
